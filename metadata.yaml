@@ -1,0 +1,30 @@
+_repo: The-Boy-in-the-Bush_63000
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Lawrence, D. H. (David Herbert)
+    aliases:
+    - Davison, Lawrence H. (Lawrence Herbert)
+    - Lawrence, D.H.
+    - Lawrence, David Herbert
+    birthdate: 1885
+    deathdate: 1930
+    gutenberg_agent_id: '123'
+    url: http://www.gutenberg.org/2009/agents/123
+    wikipedia: https://en.wikipedia.org/wiki/D._H._Lawrence
+  - agent_name: Skinner, Mary Louisa
+    gutenberg_agent_id: '52221'
+    url: http://www.gutenberg.org/2009/agents/52221
+description: ''
+gutenberg_issued: '2020-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Boy in the Bush
+url: http://www.gutenberg.org/ebooks/63000
